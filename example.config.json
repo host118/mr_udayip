@@ -1,0 +1,15 @@
+{
+    "ip": "mr_udayip.aternos.me",
+    "port": "57676",
+    "name": "mr_udayip",
+    "password": "Aa101010",
+    "auto-night-skip": "false",
+    "prefix": "",
+    "login-enabled": "true",
+    "register-cmd": "/login Aa101010 Aa101010",
+    "login-cmd": "/login Aa101010",
+    "loginmsg": "done",
+    "auto-reconnect": "true",
+    "web": "true"
+    
+}
